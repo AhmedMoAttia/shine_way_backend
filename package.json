@@ -1,0 +1,24 @@
+{
+  "name": "shine_way_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sc-AhmedAttia/shine_way_backend.git"
+  },
+  "author": "AhmedAttia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sc-AhmedAttia/shine_way_backend/issues"
+  },
+  "homepage": "https://github.com/sc-AhmedAttia/shine_way_backend#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sequelize": "^5.18.4",
+    "sqlite3": "^4.1.0"
+  }
+}
